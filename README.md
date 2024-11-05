@@ -1,4 +1,4 @@
-<p style="text-align: center;">[![GitHub Streak](https://streak-stats.demolab.com/?user=InfoMathias)](https://git.io/streak-stats)</p>
+<div style="align-items: center;">[![GitHub Streak](https://streak-stats.demolab.com/?user=InfoMathias)](https://git.io/streak-stats)</div>
 
 <!--
 **InfoMathias/InfoMathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
