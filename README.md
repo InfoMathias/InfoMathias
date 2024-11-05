@@ -1,4 +1,8 @@
-<div style="align-items: center;">[![GitHub Streak](https://streak-stats.demolab.com/?user=InfoMathias)](https://git.io/streak-stats)</div>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=InfoMathias" alt="GitHub Streak"/>
+  </a>
+</div>
 
 <!--
 **InfoMathias/InfoMathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
