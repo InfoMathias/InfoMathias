@@ -5,7 +5,7 @@
 <!-- Streak Stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-ojxd.vercel.app?user=InfoMathias&theme=dark&hide_border=true&fire=D280EB&ring=3B76EB&currStreakLabel=EBEBEB&background=0D1117" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-ojxd.vercel.app?user=InfoMathias&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true&fire=D280EB&ring=3B76EB&currStreakLabel=EBEBEB&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
